@@ -6,7 +6,7 @@ for mobile payment with Alipay App or Mobile Web. Requires cordova-android 4.0 o
 ### ChangeLogs
   本cordova插件是基于支付宝App支付SDK的Demo实现
  - 升级支付宝SDK版本到20160825；
- - 修改了一些bug;
+ - 新增修复ios资源位置错误的bug by五牛20170109;
  - 支持Android和iOS Alipay SDK
 ###主要功能
 
